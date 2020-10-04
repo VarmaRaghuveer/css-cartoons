@@ -77,8 +77,15 @@ Author : facebook.com/akbarppa
       top: 300px;
     }
   }
+
+  .center{
+      margin-top: 100px;
+      text-align: center;
+      color: #fefefe;
+  }
+
   #goku {
-    margin-top: 30px;
+    margin-top: 50px;
     background: #fff;
     position: relative;
     -ms-transform: scale(0.5);
